@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Play Pause",
+    "section": "Control",
+    "headers": {
+      "": ""
+    },
+    "id": "ad363b19-aae5-4eb8-ad26-57e56b95627f",
+    "httpBody": "",
+    "showResponse": false,
+    "url": "http://192.168.0.223:5000//playpause",
+    "httpMethod": 0,
+    "contentTypeHeader": 1,
+    "acceptHeader": 1
+  },
+  {
+    "title": "VolUp",
+    "section": "Control",
+    "headers": {
+      "": ""
+    },
+    "id": "74d34282-762c-4f1e-8cb5-c2f4576e464b",
+    "httpBody": "",
+    "showResponse": false,
+    "url": "http://192.168.0.223:5000//volup",
+    "httpMethod": 0,
+    "contentTypeHeader": 1,
+    "acceptHeader": 1
+  },
+  {
+    "title": "VolDown",
+    "section": "Control",
+    "headers": {
+      "": ""
+    },
+    "id": "ed8eac90-66f2-4a69-9282-439bd3a14ab3",
+    "httpBody": "",
+    "showResponse": false,
+    "url": "http://192.168.0.223:5000//voldown",
+    "httpMethod": 0,
+    "contentTypeHeader": 1,
+    "acceptHeader": 1
+  },
+  {
+    "title": "Next",
+    "section": "Control",
+    "headers": {
+      "": ""
+    },
+    "id": "03357157-450d-4c06-9d6c-820336d0bced",
+    "httpBody": "",
+    "showResponse": false,
+    "url": "http://192.168.0.223:5000//next",
+    "httpMethod": 0,
+    "contentTypeHeader": 1,
+    "acceptHeader": 1
+  },
+  {
+    "title": "Prev",
+    "section": "Control",
+    "headers": {
+      "": ""
+    },
+    "id": "daa9589f-b57b-496c-b0eb-fbdd1434c223",
+    "httpBody": "",
+    "showResponse": false,
+    "url": "http://192.168.0.223:5000//prev",
+    "httpMethod": 0,
+    "contentTypeHeader": 1,
+    "acceptHeader": 1
+  },
+  {
+    "title": "Philly Soul",
+    "section": "Playlists",
+    "headers": {
+      "": ""
+    },
+    "id": "da8fe10b-4920-424f-80a0-5277057a1d63",
+    "httpBody": "",
+    "showResponse": false,
+    "url": "http://192.168.0.223:5000//select/a937aa9dd2e00385476b927d0de8c073",
+    "httpMethod": 0,
+    "contentTypeHeader": 1,
+    "acceptHeader": 1
+  },
+  {
+    "title": "Dinner with friends",
+    "section": "Playlists",
+    "headers": {
+      "": ""
+    },
+    "id": "2517dae2-6887-4774-8240-8aa1a0c8b2bf",
+    "httpBody": "",
+    "showResponse": false,
+    "url": "http://192.168.0.223:5000//select/076b41167e5d5d9a2fc40c6e41c4253e",
+    "httpMethod": 0,
+    "contentTypeHeader": 1,
+    "acceptHeader": 1
+  }
+]
